@@ -35,6 +35,6 @@ class InstagramBot():
         else:
             print("You are not following this user")
     
-bot = InstagramBot('_.prakkii._', 'prakriti1408')
+bot = InstagramBot('_.prakkii._', '*****')
 bot.signIn()
 bot.followWithUsername('rado')
